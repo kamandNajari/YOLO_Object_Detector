@@ -96,29 +96,6 @@ The YOLOv8 model is downloaded automatically on first run — no manual setup ne
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
----
 
-## 👥 Contributors
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/KamandNajari">
-        <img src="https://avatars.githubusercontent.com/KamandNajari" width="100px;" alt="Kamand Najari"/><br />
-        <sub><b>Kamand Najari</b></sub>
-      </a><br />
-      <a href="https://github.com/KamandNajari" title="GitHub">@KamandNajari</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/python-is-life2022">
-        <img src="https://avatars.githubusercontent.com/python-is-life2022" width="100px;" alt="python-is-life2022"/><br />
-        <sub><b>python-is-life2022</b></sub>
-      </a><br />
-      <a href="https://github.com/python-is-life2022" title="GitHub">@python-is-life2022</a>
-    </td>
-  </tr>
-</table>
-
----
 
 Thank you for checking out this project! ✨
