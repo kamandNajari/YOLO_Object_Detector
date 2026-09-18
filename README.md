@@ -54,15 +54,15 @@ A real-time object detection tool powered by **YOLOv8** (Ultralytics). Choose to
 - A working webcam (only needed for the live detection mode)
 
 ## 📥 Clone the Repository
-
+```bash
 git clone https://github.com/kamandNajari/YOLO_Object_Detector.git
 
 cd YOLO_Object_Detector
-
+```
 ## 🚀 Installation
-
+```bash
 pip install -r requirements.txt
-
+```
 ## 📓 Running the Notebook
 
 Make sure Jupyter is installed:
