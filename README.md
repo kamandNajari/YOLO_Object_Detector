@@ -56,6 +56,7 @@ A real-time object detection tool powered by **YOLOv8** (Ultralytics). Choose to
 ## 📥 Clone the Repository
 
 git clone https://github.com/kamandNajari/YOLO_Object_Detector.git
+
 cd YOLO_Object_Detector
 
 ## 🚀 Installation
