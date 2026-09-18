@@ -63,10 +63,6 @@ cd YOLO_Object_Detector
 
 pip install -r requirements.txt
 
-If you don't already have PyTorch installed, install the lightweight CPU version first:
-
-pip install torch --index-url https://download.pytorch.org/whl/cpu
-
 ## 📓 Running the Notebook
 
 Make sure Jupyter is installed:
