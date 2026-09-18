@@ -97,5 +97,5 @@ The YOLOv8 model is downloaded automatically on first run — no manual setup ne
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 
-
+---
 Thank you for checking out this project! ✨
