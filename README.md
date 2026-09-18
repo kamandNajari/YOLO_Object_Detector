@@ -66,9 +66,9 @@ pip install -r requirements.txt
 ## 📓 Running the Notebook
 
 Make sure Jupyter is installed:
-
+```bash
 pip install jupyter
-
+```
 Then launch it:
 
 jupyter notebook
